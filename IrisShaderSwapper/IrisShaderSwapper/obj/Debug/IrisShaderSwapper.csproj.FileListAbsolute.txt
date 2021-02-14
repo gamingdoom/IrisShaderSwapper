@@ -8,3 +8,8 @@ E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\D
 E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.csproj.CoreCompileInputs.cache
 E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.exe
 E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.pdb
+E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\bin\Debug\IrisShaderSwapper.exe.manifest
+E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\bin\Debug\IrisShaderSwapper.application
+E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.TrustInfo.xml
+E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.exe.manifest
+E:\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\IrisShaderSwapper\obj\Debug\IrisShaderSwapper.application
